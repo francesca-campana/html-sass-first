@@ -1,12 +1,15 @@
+$color_pink: pink;
+$color_red: red;
+
 body {
-  background-color: pink;
+  background-color: $color_pink;
 }
 h1 {
-  color: red;
+  color: $color_red;
 }
 h2 {
-  color: red;
+  color: $color_red;
 }
 p {
-  color:red;
+  color:$color_red;
 }
